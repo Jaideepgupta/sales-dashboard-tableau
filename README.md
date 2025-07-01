@@ -6,7 +6,7 @@ This project showcases a sales performance dashboard built using **Tableau**. It
 
 ## 📊 Dashboard Overview
 
-![Dashboard Preview](Tableau%20Dashboard.png)
+![Dashboard Preview](https://github.com/Jaideepgupta/sales-dashboard-tableau/blob/main/Tableau%20Dashboard.png.png)
 
 ### Key Highlights:
 - **Total Sales:** ₹21.2M  
