@@ -57,7 +57,7 @@ This project showcases a sales performance dashboard built using **Tableau**. It
 ## 🔗 Live Demo / Portfolio
 
 You can explore more of my projects at:  
-🌐 [jaideepgupta.github.io/portfolio](https://jaideepgupta.github.io/portfolio)
+🌐 [jaideepgupta.github.io/portfolio] https://jaideepgupta.github.io/portfolio/)
 
 ---
 
